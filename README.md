@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlavioFRibeiro
 - 👀 I’m interested in about everything, from dinossaurs to airplanes :D
-- 🌱 I’m currently learning Data Science and each day more passionate about it
+- 🌱 I’m a Data Scientist and each day I discover something new and interesting in the field
 - 💞️ I’m looking to collaborate on projects that can bring new perspectives to problems
 - 📫 How to reach me? Just e-mail me on flarib@msn.com ...
 
