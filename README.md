@@ -17,10 +17,14 @@ Python · SQL · ETL · PySpark · DuckDB · LangChain · FAISS · Streamlit
 
 ---
 
-### 🚀 Selected projects
+### 🚀 AI projects
 - **SQL_AI_Agent** — Natural language to SQL for analytics  
 - **rag-genai-core** — RAG pipelines and GenAI architecture  
-- **Torino_Finalcial_Adviser** — AI-assisted analytical decision support  
+- **Torino_Finalcial_Adviser** — AI-assisted analytical decision support
+
+### ⚙️ Automation / Analytics Engineering
+- **CraftCode-Project** — Reporting automation pipeline with validation checks and month-over-month comparisons
+
 
 ---
 
