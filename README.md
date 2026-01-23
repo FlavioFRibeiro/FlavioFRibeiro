@@ -1,64 +1,27 @@
-# Flávio Ribeiro
+## Hi, I'm Flávio 👋
 
-**Senior Data Analyst @ Airbus**  
-Data Science & GenAI practitioner | Applied ML, LLM agents, analytics-driven AI
+Senior Data Analyst @ Airbus ✈️  
+Data Science & GenAI practitioner 🤖📊
 
----
+I work with **analytics, data science, and AI-driven solutions** in real business contexts — from scalable reporting pipelines to applied ML and LLM-based systems.
 
-## Profile
-
-I am a **Senior Data Analyst** with 5+ years of experience delivering high-impact analytics, automation, and data-driven decision support in complex business environments.
-
-My core expertise lies in **analytics, data engineering, and business-oriented problem solving**, built through hands-on work with large-scale reporting systems, ETL pipelines, and cross-functional stakeholders.
-
-In parallel, I am actively consolidating my profile as a **Data Scientist / GenAI Engineer**, focusing on the practical application of machine learning, LLMs, RAG pipelines, and AI agents to solve real analytical and operational problems.
+My core seniority is in **Data Analytics and automation**, while I’m continuously deepening my work in **Data Science and GenAI**, building and evolving solutions such as:
+- 🤖 LLM agents (NL → SQL, analytics automation)
+- 📄 RAG pipelines for document intelligence
+- 🧠 Applied ML with a strong analytical and business mindset
 
 ---
 
-## What I do
-
-### Data Analytics & Business Impact
-- Design and scale analytical pipelines that replace manual reporting with automated, reliable systems.
-- Translate complex data into actionable insights for business, finance, and operations.
-- Build SSOT architectures and analytics foundations to reduce cost, noise, and decision latency.
-
-### Data Science & GenAI 
-- Develop **LLM-powered analytical tools**, including NL-to-SQL agents and document-based RAG systems.
-- Design AI pipelines with attention to **trade-offs, limitations, and evaluation**, not just demos.
-- Prototype end-to-end solutions combining Python, DuckDB, LangChain, FAISS, and Streamlit.
+### 🔧 Tech I use
+Python · SQL · ETL · PySpark · DuckDB · LangChain · FAISS · Streamlit
 
 ---
 
-## Selected Projects
-
-### SQL AI Agent — Natural Language to SQL for Analytics
-An AI agent that converts natural language questions into validated SQL queries executed on DuckDB, designed to reduce analyst workload and improve data accessibility.
-
-**Focus:** Analytics automation, NL-to-SQL, safe query generation, business-oriented AI  
-→ Repository: `SQL_AI_Agent`
+### 🚀 Selected projects
+- **SQL_AI_Agent** — Natural language to SQL for analytics  
+- **rag-genai-core** — RAG pipelines and GenAI architecture  
+- **Torino_Finalcial_Adviser** — AI-assisted analytical decision support  
 
 ---
 
-### RAG GenAI Core — Document Intelligence with LLMs
-A modular Retrieval-Augmented Generation pipeline for querying documents with LLMs, structured to explore chunking strategies, retrieval quality, and system design trade-offs.
-
-**Focus:** RAG architecture, embeddings, retrieval, applied GenAI engineering  
-→ Repository: `rag-genai-core`
-
----
-
-### Torino Financial Adviser — AI-assisted Financial Analysis
-An AI-assisted analytical tool designed to support exploratory financial analysis and interpretation, emphasizing explainability and structured reasoning over “black-box” recommendations.
-
-**Focus:** Applied AI for decision support, analytical framing, Streamlit prototyping  
-→ Repository: `Torino_Finalcial_Adviser`
-
----
-
-## Technical Stack
-
-**Data & Engineering:** Python, SQL, ETL/ELT, PySpark, DuckDB, BigQuery  
-**AI & ML:** Machine Learning, LangChain, LLM agents, RAG, statistical modeling  
-**Business & BI:** Excel, Tableau, Power BI, Cloud platforms
-
----
+I enjoy building things that sit **between business, analytics, and AI**, and I’m always learning how to do that better.
