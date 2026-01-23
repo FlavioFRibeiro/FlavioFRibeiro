@@ -29,4 +29,9 @@ Python · SQL · ETL · PySpark · DuckDB · LangChain · FAISS · Streamlit
 
 ---
 
+### 📊 BI & Visualization
+- **sales_performance_dashboard** — Executive sales dashboard with budget vs actuals and commercial segmentation
+
+---
+
 I enjoy building things that sit **between business, analytics, and AI**, and I’m always learning how to do that better.
