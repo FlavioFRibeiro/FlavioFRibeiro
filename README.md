@@ -11,12 +11,7 @@ My core seniority is in **Data Analytics and automation**, while I’m continuou
 - 🧠 **Torino_Finalcial_Adviser** — AI-assisted analytical decision support
 
 ### 🔧 Tech I use
-Python · SQL · ETL · PySpark · DuckDB · LangChain · FAISS · Streamlit - PowerBI/Tableau - SAP 
-
----
-
-### ⚙️ Automation / Analytics Engineering
-- **CraftCode-Project** — Reporting automation pipeline with validation checks and month-over-month comparisons
+Python · SQL · ETL · PySpark · DuckDB · LangChain · FAISS · Streamlit - PowerBI/Tableau - SAP
 
 ---
 
@@ -25,8 +20,14 @@ Python · SQL · ETL · PySpark · DuckDB · LangChain · FAISS · Streamlit - P
 
 ---
 
+### ⚙️ Automation / Analytics Engineering
+- **CraftCode-Project** — Reporting automation pipeline with validation checks and month-over-month comparisons
+
+---
+
 ### ⚙️ Machine Learmimg Projects
 - **supply_chain_analytics** - Predictive model for Risk of delay in deliveries using PySpark and FPGrowth
+- **employee_retention_prediction** - This project aims to predict voluntary employee attrition from a company
 
 ---
 
