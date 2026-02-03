@@ -3,12 +3,7 @@
 Senior Data Analyst @ Airbus ✈️  
 Data Science & GenAI practitioner 🤖📊
 
-
-
-My core seniority is in **Data Analytics and automation**, while I’m continuously deepening my work in **Data Science and GenAI**, building and evolving solutions such as:
-- 🤖 **SQL_AI_Agent** — Natural language to SQL for analytics 
-- 📄 **RAG_PDFs_AI_Agent** — RAG pipelines and GenAI architecture
-- 🧠 **Torino_Finalcial_Adviser** — AI-assisted analytical decision support
+My core seniority is in **Data Analytics and automation**, while I’m continuously deepening my work in **Data Science and GenAI**.
 
 ### 🔧 Tech I use
 Python · SQL · ETL · PySpark · DuckDB · LangChain · FAISS · Streamlit - PowerBI/Tableau - SAP
@@ -24,6 +19,11 @@ Python · SQL · ETL · PySpark · DuckDB · LangChain · FAISS · Streamlit - P
 - **CraftCode-Project** — Reporting automation pipeline with validation checks and month-over-month comparisons
 
 ---
+
+### AI Projects ###
+- 🤖 **SQL_AI_Agent** — Natural language to SQL for analytics 
+- 📄 **RAG_PDFs_AI_Agent** — RAG pipelines and GenAI architecture
+- 🧠 **Torino_Finalcial_Adviser** — AI-assisted analytical decision support
 
 ### ⚙️ Machine Learmimg Projects
 - **supply_chain_analytics** - Predictive model for Risk of delay in deliveries using PySpark and FPGrowth
