@@ -28,8 +28,11 @@ Python · SQL · ETL · PySpark · PowerBI/Tableau · SAP · DuckDB · LangChain
 ---
 
 ### ⚙️ Machine Learmimg Projects
+- **hotel_reviews_nlp_analysis** - NLP case study on Booking.com reviews — multilingual insights (EN/DE/FR) with a reproducible pipeline, reports by city, and business-focused summaries
 - **supply_chain_analytics** - Predictive model for Risk of delay in deliveries using PySpark and FPGrowth
-- **employee_retention_prediction** - This project aims to predict voluntary employee attrition from a company
+- **employee_retention_prediction** - This project aims to predict voluntary employee attrition from a company.
+- **customer_segmentation_marketing** - In this project (In portuguese) I have clustered clientes based on their behaviour.
+- **energy_consumption_clustering** - This is an exploratory clustering study to group households by energy consumption behavior.
 
 ---
 
