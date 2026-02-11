@@ -28,6 +28,7 @@ Python · SQL · ETL · PySpark · PowerBI/Tableau · SAP · DuckDB · LangChain
 ---
 
 ### ⚙️ Machine Learning Projects
+- **[marketing_campaign_data_analysis](https://github.com/FlavioFRibeiro/marketing_campaign_data_analysis/tree/main)** - Multivariate exploratory analysis of marketing campaign data, combining statistical testing, feature engineering, and Random Forest feature importance to identify the key drivers of customer response.
 - **[hotel_reviews_nlp_analysis](https://github.com/FlavioFRibeiro/hotel_reviews_nlp_analysis)** — NLP case study on Booking.com reviews — multilingual insights (EN/DE/FR) with a reproducible pipeline, reports by city, and business-focused summaries
 - **[supply_chain_analytics](https://github.com/FlavioFRibeiro/supply_chain_analytics)** — Predictive model for risk of delivery delay using PySpark and FPGrowth
 - **[employee_retention_prediction](https://github.com/FlavioFRibeiro/employee_retention_prediction)** — Predicts voluntary employee attrition
