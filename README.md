@@ -11,7 +11,7 @@ Python · SQL · ETL · PySpark · PowerBI/Tableau · SAP · DuckDB · LangChain
 ---
 
 ### 📊 BI & Visualization
-- **[sales_performance_dashboard](https://github.com/FlavioFRibeiro/sales_performance_dashboard)** — Executive sales dashboard with budget vs actuals and commercial segmentation
+- **[Sales Performance Dashboard](https://github.com/FlavioFRibeiro/sales_performance_dashboard)** — Executive sales dashboard with budget vs actuals and commercial segmentation
 
 ---
 
@@ -29,12 +29,12 @@ Python · SQL · ETL · PySpark · PowerBI/Tableau · SAP · DuckDB · LangChain
 ---
 
 ### ⚙️ Data Analysis & Machine Learning Projects
-- **[marketing_campaign_data_analysis](https://github.com/FlavioFRibeiro/marketing_campaign_data_analysis/tree/main)** - Multivariate exploratory analysis of marketing campaign data, combining statistical testing, feature engineering, and Random Forest feature importance to identify the key drivers of customer response.
-- **[hotel_reviews_nlp_analysis](https://github.com/FlavioFRibeiro/hotel_reviews_nlp_analysis)** — NLP case study on Booking.com reviews — multilingual insights (EN/DE/FR) with a reproducible pipeline, reports by city, and business-focused summaries
-- **[supply_chain_analytics](https://github.com/FlavioFRibeiro/supply_chain_analytics)** — Predictive model for risk of delivery delay using PySpark and FPGrowth
-- **[employee_retention_prediction](https://github.com/FlavioFRibeiro/employee_retention_prediction)** — Predicts voluntary employee attrition
-- **[customer_segmentation_marketing](https://github.com/FlavioFRibeiro/customer_segmentation_marketing)** — Client clustering (Portuguese) based on behavior
-- **[energy_consumption_clustering](https://github.com/FlavioFRibeiro/energy_consumption_clustering)** — Exploratory clustering of households by energy consumption behavior
+- **[Marketing Campaign Data Analysis](https://github.com/FlavioFRibeiro/marketing_campaign_data_analysis/tree/main)** - Multivariate exploratory analysis of marketing campaign data, combining statistical testing, feature engineering, and Random Forest feature importance to identify the key drivers of customer response.
+- **[Hotel reviews using NLP](https://github.com/FlavioFRibeiro/hotel_reviews_nlp_analysis)** — NLP case study on Booking.com reviews — multilingual insights (EN/DE/FR) with a reproducible pipeline, reports by city, and business-focused summaries
+- **[Supply Chain Analytics](https://github.com/FlavioFRibeiro/supply_chain_analytics)** — Predictive model for risk of delivery delay using PySpark and FPGrowth
+- **[Employee Retention Prediction](https://github.com/FlavioFRibeiro/employee_retention_prediction)** — Predicts voluntary employee attrition
+- **[Customer Segmentation Marketing](https://github.com/FlavioFRibeiro/customer_segmentation_marketing)** — Client clustering (Portuguese) based on behavior
+- **[Energy Consumption Clustering](https://github.com/FlavioFRibeiro/energy_consumption_clustering)** — Exploratory clustering of households by energy consumption behavior
 
 ---
 
