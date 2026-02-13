@@ -17,6 +17,7 @@ Python · SQL · ETL · PySpark · PowerBI/Tableau · SAP · DuckDB · LangChain
 
 ### ⚙️ Automation / Analytics Engineering
 - **[CraftCode-Project](https://github.com/FlavioFRibeiro/CraftCode-Project)** — Reporting automation pipeline with validation checks and month-over-month comparisons
+- **[RFM Marketing Analysis](https://github.com/FlavioFRibeiro/rfm_marketing_analysis)** - Reporting automation for RFM Analysis, with automatic cross validations and output traciability, as well as the executive summary report for decision makers.
 
 ---
 
