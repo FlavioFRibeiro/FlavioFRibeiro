@@ -1,9 +1,5 @@
 ﻿## Hi, I'm Flávio 👋
 
-Senior Data Analyst @ Airbus ✈️  
-Data Science & GenAI practitioner 🤖📊
-
-My core seniority is in **Data Analytics and automation**, while I'm continuously deepening my work in **Data Science and GenAI**.
 
 ### 🔧 Tech I use
 Python · SQL · ETL · PySpark · PowerBI/Tableau · SAP · DuckDB · LangChain · FAISS · Streamlit
