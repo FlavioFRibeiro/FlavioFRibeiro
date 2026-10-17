@@ -5,23 +5,15 @@
 Python · SQL · ETL · PySpark · PowerBI/Tableau · SAP · DuckDB · LangChain · FAISS · Streamlit
 
 ---
-
-### 📊 BI & Visualization
-- **[Sales Performance Dashboard](https://github.com/FlavioFRibeiro/sales_performance_dashboard)** — Executive sales dashboard with budget vs actuals and commercial segmentation
-
+### AI Projects
+- 🤖 **[SQL_AI_Agent](https://github.com/FlavioFRibeiro/SQL_AI_Agent)** — Natural language to SQL for analytics
+- 📄 **[RAG_PDFs_AI_Agent](https://github.com/FlavioFRibeiro/RAG_PDFs_AI_Agent)** — RAG pipelines and GenAI architecture
+- 🧠 **[Torino_Finalcial_Adviser](https://github.com/FlavioFRibeiro/Torino_Finalcial_Adviser)** — AI-assisted analytical decision support
 ---
 
 ### ⚙️ Automation / Analytics Engineering
 - **[CraftCode-Project](https://github.com/FlavioFRibeiro/CraftCode-Project)** — Reporting automation pipeline with validation checks and month-over-month comparisons
 - **[RFM Marketing Analysis](https://github.com/FlavioFRibeiro/rfm_marketing_analysis)** - Reporting automation for RFM Analysis, with automatic cross validations and output traciability, as well as the executive summary report for decision makers.
-
----
-
-### AI Projects
-- 🤖 **[SQL_AI_Agent](https://github.com/FlavioFRibeiro/SQL_AI_Agent)** — Natural language to SQL for analytics
-- 📄 **[RAG_PDFs_AI_Agent](https://github.com/FlavioFRibeiro/RAG_PDFs_AI_Agent)** — RAG pipelines and GenAI architecture
-- 🧠 **[Torino_Finalcial_Adviser](https://github.com/FlavioFRibeiro/Torino_Finalcial_Adviser)** — AI-assisted analytical decision support
-
 ---
 
 ### ⚙️ Data Analysis & Machine Learning Projects
@@ -31,7 +23,10 @@ Python · SQL · ETL · PySpark · PowerBI/Tableau · SAP · DuckDB · LangChain
 - **[Employee Retention Prediction](https://github.com/FlavioFRibeiro/employee_retention_prediction)** — Predicts voluntary employee attrition
 - **[Customer Segmentation Marketing](https://github.com/FlavioFRibeiro/customer_segmentation_marketing)** — Client clustering (Portuguese) based on behavior
 - **[Energy Consumption Clustering](https://github.com/FlavioFRibeiro/energy_consumption_clustering)** — Exploratory clustering of households by energy consumption behavior
+---
 
+### 📊 BI & Visualization
+- **[Sales Performance Dashboard](https://github.com/FlavioFRibeiro/sales_performance_dashboard)** — Executive sales dashboard with budget vs actuals and commercial segmentation
 ---
 
 I enjoy building things that sit **between business, analytics, and AI**, and I'm always learning how to do that better.
