@@ -7,7 +7,7 @@ Python · SQL · ETL · PySpark · PowerBI/Tableau · SAP · DuckDB · LangChain
 ---
 ### AI Projects
 - 🤖 **[SQL_AI_Agent](https://github.com/FlavioFRibeiro/SQL_AI_Agent)** — Natural language to SQL for analytics
-- 📄 **[RAG_PDFs_AI_Agent](https://github.com/FlavioFRibeiro/RAG_PDFs_AI_Agent)** — RAG pipelines and GenAI architecture
+- 📄 **[RAG_for_PDFs](https://github.com/FlavioFRibeiro/RAG_PDFs_AI_Agent)** — RAG pipelines and GenAI architecture
 - 🧠 **[Torino_Finalcial_Adviser](https://github.com/FlavioFRibeiro/Torino_Finalcial_Adviser)** — AI-assisted analytical decision support
 ---
 
